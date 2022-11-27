@@ -1,0 +1,9 @@
+.leaflet-container {
+    height: 0;
+    width: auto;
+    padding-bottom: 70%;
+    position: relative;
+    overflow: hidden;
+    border: 5px solid rgb(179, 171, 216);
+
+}
